@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="deniz.k.sogukpinar.budgetbook" version="0.1.0">
+  <name>BudgetBook</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="deniz.k.sogukpinar@protonmail.com">
+    DK-So
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
